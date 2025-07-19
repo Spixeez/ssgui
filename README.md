@@ -52,3 +52,5 @@ Contact
 For questions or feedback, open an issue on GitHub or contact the maintainer.
 
 SSGUI offers a fast, clean, and practical way to manage multiple SSH sessions with saved connections — perfect for users who want simplicity without sacrificing power.
+
+### *https://tooomm.github.io/github-release-stats/?username=antoo2471&repository=SSGui*
