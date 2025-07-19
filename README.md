@@ -6,7 +6,7 @@ SSGUI is a fast and reliable SSH client built with Python and PyQt5. Designed fo
 ## Key Features
 Tabbed interface: Easily manage multiple SSH sessions in separate tabs
 
-Server saving/loading: Store your SSH server credentials locally for quick reconnection
+Server saving/loading: Store your SSH server credentials locally for quick reconnection, and they are encrypted (PS : /!\ Dont give your .fernet.key file to anyone ! /!\)
 
 Clean and modern UI: Minimalistic design focused on user experience and clarity
 
@@ -16,7 +16,7 @@ Robust input handling: Proper processing of keyboard input including backspace a
 
 Clear error handling: Informative messages without crashes
 
-<img width="890" height="624" alt="image" src="https://github.com/user-attachments/assets/940aaa9f-8ce4-4d71-ac76-eba951eeae91" />, <img width="596" height="526" alt="image" src="https://github.com/user-attachments/assets/147c67de-8f86-47ab-83f0-666f113132e6" />
+<img width="890" height="624" alt="image" src="https://github.com/user-attachments/assets/940aaa9f-8ce4-4d71-ac76-eba951eeae91" /> <img width="596" height="526" alt="image" src="https://github.com/user-attachments/assets/147c67de-8f86-47ab-83f0-666f113132e6" />
 
 
 ## Installation
