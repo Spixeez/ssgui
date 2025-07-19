@@ -20,7 +20,9 @@ Clear error handling: Informative messages without crashes
 
 
 ## Installation
-The easiest way to get started is by downloading the latest release from the Releases page.
+The easiest way to get started is by downloading the latest release from the Releases page, but you can just download the zip and run the run.bat file !
+
+Windows only : you can use it on linux and macos but download the source code and install the depedencies manually
 
 Launch the client.
 
